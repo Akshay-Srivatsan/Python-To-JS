@@ -1,0 +1,2 @@
+all:
+	python hello.py
